@@ -1,0 +1,2 @@
+# Human-Activity-Recognition-Using-2D-CNN
+In this project, we demonstrate a method for Human Activity Recognition (HAR), using the end-to-end approach in a neural network. The 2D convolutional layer deep neural network architecture we used automatically extracts activity features and classifies them using only a few model parameters. The model performance was evaluated on open source WISDM datasets to classify the human Activity. Also, we used different optimizers in the network architecture for better results. 
